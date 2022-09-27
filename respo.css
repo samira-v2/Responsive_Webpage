@@ -182,9 +182,9 @@ align-items: center;
 
 
 .o-scroll-up {
-  position: fixed;
+  position: relative;
   right: 1.25%;
-  bottom: 5rem;
+  bottom: 3rem;
 }
 .o-scroll-up .o-scroll-up-icon {
   padding: 6px 0;
