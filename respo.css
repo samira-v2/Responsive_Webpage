@@ -187,7 +187,7 @@ align-items: center;
   bottom: 5rem;
 }
 .o-scroll-up .o-scroll-up-icon {
-  justify-content: center;
+  padding: 6px 0;
   float: right;
   width: 2.5rem;
   height: 2.5rem;
