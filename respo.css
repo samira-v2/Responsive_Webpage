@@ -176,8 +176,23 @@ align-items: center;
   align-items: left;
 }
 
-.overlay {
+/* .overlay {
   position: absolute;
+} */
+
+
+.o-scroll-up {
+  position: fixed;
+  right: 1.25%;
+  bottom: 5rem;
 }
-
-
+.o-scroll-up .o-scroll-up-icon {
+  justify-content: center;
+  float: right;
+  width: 2.5rem;
+  height: 2.5rem;
+  color: #fff;
+  text-decoration: none;
+  background-color: black;
+  opacity: .8;
+}
